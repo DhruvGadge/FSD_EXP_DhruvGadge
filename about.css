@@ -1,0 +1,8 @@
+.about-banner {
+    background: url('../images/about-banner.jpg') center/cover no-repeat;
+    height: 250px;
+    text-align: center;
+    color: white;
+    padding: 80px;
+    font-size: 24px;
+}

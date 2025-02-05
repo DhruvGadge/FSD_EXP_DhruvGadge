@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.banner {
+  background: url('../images/gym-banner.jpg') center/cover no-repeat;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
